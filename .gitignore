@@ -1,0 +1,14 @@
+# 忽略所有以点开头的文件/文件夹
+.*
+
+build/
+
+# 但不要忽略 .gitignore 本身
+!.gitignore
+# 不要忽略 .gitkeep（如果你想保留空文件夹）
+!.gitkeep
+# 不要忽略特定的配置文件
+!.env.example
+!.env.local
+!.github
+!.vscode

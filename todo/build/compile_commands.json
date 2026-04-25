@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/dylan/workspace/cproject/todo/build",
+  "command": "/usr/bin/c++  -I/home/dylan/workspace/cproject/todo/include -std=gnu++17 -o CMakeFiles/TODO.dir/src/main.cpp.o -c /home/dylan/workspace/cproject/todo/src/main.cpp",
+  "file": "/home/dylan/workspace/cproject/todo/src/main.cpp",
+  "output": "CMakeFiles/TODO.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/dylan/workspace/cproject/todo/build",
+  "command": "/usr/bin/c++  -I/home/dylan/workspace/cproject/todo/include -std=gnu++17 -o CMakeFiles/TODO.dir/src/fileCMD.cpp.o -c /home/dylan/workspace/cproject/todo/src/fileCMD.cpp",
+  "file": "/home/dylan/workspace/cproject/todo/src/fileCMD.cpp",
+  "output": "CMakeFiles/TODO.dir/src/fileCMD.cpp.o"
+},
+{
+  "directory": "/home/dylan/workspace/cproject/todo/build",
+  "command": "/usr/bin/c++  -I/home/dylan/workspace/cproject/todo/include -std=gnu++17 -o CMakeFiles/TODO.dir/src/todoProcess.cpp.o -c /home/dylan/workspace/cproject/todo/src/todoProcess.cpp",
+  "file": "/home/dylan/workspace/cproject/todo/src/todoProcess.cpp",
+  "output": "CMakeFiles/TODO.dir/src/todoProcess.cpp.o"
+}
+]

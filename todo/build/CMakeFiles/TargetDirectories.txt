@@ -1,0 +1,3 @@
+/home/dylan/workspace/cproject/todo/build/CMakeFiles/TODO.dir
+/home/dylan/workspace/cproject/todo/build/CMakeFiles/edit_cache.dir
+/home/dylan/workspace/cproject/todo/build/CMakeFiles/rebuild_cache.dir
